@@ -1,0 +1,90 @@
+{
+  "votingdata": [
+    {
+      "uri": "spotify:track:49zD0wr2S3d0lZPib0K4e1",
+      "dateAdded": 1473611822357,
+      "votingdata": {
+        "up": [
+          "::1"
+        ],
+        "down": [],
+        "sum": 1
+      }
+    },
+    {
+      "uri": "spotify:track:49zD0wr2S3d0lZPib0K4e1",
+      "dateAdded": 1473701708536,
+      "votingdata": {
+        "up": [],
+        "down": []
+      }
+    },
+    {
+      "uri": "spotify:track:6t6oULCRS6hnI7rm0h5gwl",
+      "dateAdded": 1473701726238,
+      "votingdata": {
+        "up": [],
+        "down": [],
+        "sum": 0
+      }
+    },
+    {
+      "uri": "spotify:track:2TkGYqnVFS0T5u2PYN6JQS",
+      "dateAdded": 1473701729759,
+      "votingdata": {
+        "up": [],
+        "down": [],
+        "sum": 0
+      }
+    },
+    {
+      "uri": "spotify:track:38YgZVHPWOWsKrsCXz6JyP",
+      "dateAdded": 1473701735775,
+      "votingdata": {
+        "up": [
+          "::1"
+        ],
+        "down": [],
+        "sum": 1
+      }
+    },
+    {
+      "uri": "spotify:track:4O1CExxinEpKZi3861NlTK",
+      "dateAdded": 1473701742667,
+      "votingdata": {
+        "up": [],
+        "down": [],
+        "sum": 0
+      }
+    },
+    {
+      "uri": "spotify:track:7a86XRg84qjasly9f6bPSD",
+      "dateAdded": 1473701744373,
+      "votingdata": {
+        "up": [
+          "::1"
+        ],
+        "down": [],
+        "sum": 1
+      }
+    },
+    {
+      "uri": "spotify:track:0ZUo4YjG4saFnEJhdWp9Bt",
+      "dateAdded": 1473701745902,
+      "votingdata": {
+        "up": [],
+        "down": [],
+        "sum": 0
+      }
+    },
+    {
+      "uri": "spotify:track:0LN0ASTtcGIbNTnjSHG6eO",
+      "dateAdded": 1473701748302,
+      "votingdata": {
+        "up": [],
+        "down": [],
+        "sum": 0
+      }
+    }
+  ]
+}

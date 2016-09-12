@@ -1,0 +1,59 @@
+.track {
+  padding-bottom: 0.4rem;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  border-bottom: 1px solid $divider-color;
+  position: relative;
+  padding-right: 3rem;
+}
+
+.track__title,
+.track__artist {
+  margin: 0;
+}
+
+.track__title {
+  color: $primary-text-color;
+}
+.track__artist {
+  color: $secondary-text-color;
+}
+
+.track .btngroup {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  appearance: none;
+  border: 0;
+  outline: 0;
+
+  &:focus {
+    outline: 0;
+    box-shadow: none;
+  }
+}
+
+.btn--addtrack {
+  background-image: url(data:image/svg+xml;utf8;charset=utf-8;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgICA8cGF0aCBkPSJNMTkgMTNoLTZ2NmgtMnYtNkg1di0yaDZWNWgydjZoNnYyeiIvPg0KICAgIDxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiLz4NCjwvc3ZnPg==);
+  background-size: 75%;
+  background-position: center center;
+  background-color: $accent-color;
+  color: $primary-color-text;
+  border-radius: 50%;
+  width: 1.5rem;
+  height: 1.5rem;
+  color: transparent;
+  font-weight: 600;
+  transition: transform 150ms ease-in-out;
+
+  &:hover {
+    transform: scale(1.2) rotate(120deg);
+  }
+}

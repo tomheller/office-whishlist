@@ -1,0 +1,16 @@
+$primary-color-dark: #00796b;
+$primary-color: #009688;
+$primary-color-light: #b2dfdb;
+$primary-color-text: #fff;
+$accent-color: #9e9e9e;
+$primary-text-color: #212121;
+$secondary-text-color: #757575;
+$divider-color: #bdbdbd;
+
+@import "./components/base";
+@import "./components/layout";
+@import "./components/headers";
+@import "./components/tracklist";
+@import "./components/track";
+@import "./components/search";
+@import "./components/player";
