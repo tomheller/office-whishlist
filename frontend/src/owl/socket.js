@@ -35,7 +35,7 @@ export function owlMiddleware(store) {
 }
 
 export default function (store) {
-  socket = io.connect(`${location.protocol}//localhost:3000/`);
+  socket = io.connect(`${location.protocol}//${location.host}/`);
 
   socket.on('searchresults', results => {
     store.dispatch(actions.setSearchResults(results));
